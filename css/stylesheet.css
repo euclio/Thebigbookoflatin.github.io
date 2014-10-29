@@ -5,7 +5,7 @@
 body, html{
     font-family:'Lato', Arial, sans-serif;
     width: auto;
-    background-color: #3498db;
+    background-color: #95a5a6;
     color: #fff;
 }
 button{
@@ -40,4 +40,39 @@ p {
     margin-top: auto;
     margin-bottom: auto;
     padding-top: 20%;
+}
+
+.explaination {
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    font-size: 20px;
+    text-align: center;
+    font-stretch: normal;
+}
+
+tr > th {
+    text-align: center;
+}
+
+tr {
+    border: 2px solid #000;
+}
+
+a {
+    font-size: 25px;
+    color: #4183D7;
+}
+
+
+
+.middle {
+    text-align: center;
+}
+
+.list {
+    text-align: center;
 }
